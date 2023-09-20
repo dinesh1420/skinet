@@ -477,3 +477,6 @@ $RECYCLE.BIN/
 *.lnk
 API/skinet.db-wal
 API/skinet.db-shm
+Client/package-lock.json
+.gitignore
+Client/package-lock.json

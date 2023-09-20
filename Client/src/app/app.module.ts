@@ -9,12 +9,12 @@ import { ShopModule } from './shop/shop.module';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
   ],
   imports: [
-    BrowserModule,CoreModule,ShopModule,
+    BrowserModule,CoreModule,
     AppRoutingModule,HttpClientModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,ShopModule
   ],
   providers: [],
   bootstrap: [AppComponent]
