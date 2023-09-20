@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 import { Component, Input } from '@angular/core';
-=======
-import { Component,Input } from '@angular/core';
->>>>>>> e1651bc75cd962caae43389539023ec400308559
 import { Product } from 'src/app/shared/models/product';
 
 @Component({

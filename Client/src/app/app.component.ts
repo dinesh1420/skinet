@@ -11,9 +11,5 @@ export class AppComponent implements OnInit {
   constructor() {}
 
   ngOnInit(): void {
-<<<<<<< HEAD
-
-=======
->>>>>>> e1651bc75cd962caae43389539023ec400308559
   }
 }
