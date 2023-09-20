@@ -9,10 +9,17 @@ import { ShopModule } from './shop/shop.module';
 
 @NgModule({
   declarations: [
+<<<<<<< HEAD
     AppComponent,
   ],
   imports: [
     BrowserModule,CoreModule,
+=======
+    AppComponent
+  ],
+  imports: [
+    BrowserModule,CoreModule,ShopModule,
+>>>>>>> e1651bc75cd962caae43389539023ec400308559
     AppRoutingModule,HttpClientModule,
     BrowserAnimationsModule,ShopModule
   ],
